@@ -4,7 +4,7 @@ import { View, Text } from 'react-native';
 export default function Announcement() {
     return (
         <View style={{ flex: 2, alignItems: 'center', justifyContent: 'center'}}>
-            <Text>Announcements</Text>
+            <Text>Will need to populate announcement here.</Text>
         </View>
     )
 }
